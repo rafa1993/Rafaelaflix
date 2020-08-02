@@ -1,0 +1,157 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Curiosidades",
+            "cor": "#6bd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Animações",
+            "cor": "#00c86f"
+        },
+        {
+            "id": 3,
+            "nome": "Melhores HQ's",
+            "cor": "#9cd33b"
+        },
+        {
+            "id": 4,
+            "nome": "Filmes",
+            "cor": "#00ff00"
+        },
+        {
+            "id": 5,
+            "nome": "Games",
+            "cor": "#ff0000"
+        }
+    ],
+    "videos": [
+        {
+            "id": 1,
+            "categoriaId": 1,
+            "titulo": "A História do BATMAN – Nostalgia Expresso",
+            "url": "https://www.youtube.com/watch?v=QZlvIbLajQU"
+        },
+        {
+            "id": 2,
+            "categoriaId": 1,
+            "titulo": "Por Que Todo Mundo Ama o Batman ?",
+            "url": "https://www.youtube.com/watch?v=hz1wO3mZl-U"
+        },
+        {
+            "id": 3,
+            "categoriaId": 1,
+            "titulo": "12 Coisas Que Você Não Sabia Sobre o Batman",
+            "url": "https://www.youtube.com/watch?v=InUDd4rRm_k"
+        },
+        {
+            "id": 4,
+            "categoriaId": 1,
+            "titulo": "Principais Batmóveis do Cinema",
+            "url": "https://www.youtube.com/watch?v=JQ2mIKqfARI"
+        },
+        {
+            "id": 5,
+            "categoriaId": 1,
+            "titulo": "5 Histórias Desconhecidas do Batman",
+            "url": "https://www.youtube.com/watch?v=7nYQGuR6dVU"
+        },
+        {
+            "id": 6,
+            "categoriaId": 2,
+            "titulo": "Batman Contra o Capuz Vermelho",
+            "url": "https://www.youtube.com/watch?v=PPpfbds-Mqw"
+        },
+        {
+            "id": 7,
+            "categoriaId": 2,
+            "titulo": "Batman: O Cavaleiro das Trevas",
+            "url": "https://www.youtube.com/watch?v=mESV15B_ZGc"
+        },
+        {
+            "id": 8,
+            "categoriaId": 2,
+            "titulo": "Batman: A Máscara do Fantasma",
+            "url": "https://www.youtube.com/watch?v=_kRQCJXESKY"
+        },
+        {
+            "id": 9,
+            "categoriaId": 2,
+            "titulo": "Liga da Justiça: A Legião do Mal",
+            "url": "https://www.youtube.com/watch?v=awTE7mB8IoQ"
+        },
+        {
+            "id": 10,
+            "categoriaId": 3,
+            "titulo": "ABSOLUTE : THE KILLING JOKE | A PIADA MORTAL",
+            "url": "https://www.youtube.com/watch?v=I0pXO0yLwu4"
+        },
+        {
+            "id": 11,
+            "categoriaId": 3,
+            "titulo": "Batman: A Queda do Morcego",
+            "url": "https://www.youtube.com/watch?v=dmh1j-C8XPo"
+        },
+        {
+            "id": 12,
+            "categoriaId": 3,
+            "titulo": "Batman: Morte da Família",
+            "url": "https://www.youtube.com/watch?v=mprobbbpL70"
+        },
+        {
+            "id": 13,
+            "categoriaId": 3,
+            "titulo": "Batman Noir: O Cavaleiro das Trevas",
+            "url": "https://www.youtube.com/watch?v=qdbnMXaReEY"
+        },
+        {
+            "id": 14,
+            "categoriaId": 4,
+            "titulo": "Batman Begins",
+            "url": "https://www.youtube.com/watch?v=FdXaNB-TiDM"
+        },
+        {
+            "id": 15,
+            "categoriaId": 4,
+            "titulo": "Batman: O Cavaleiro das Trevas",
+            "url": "https://www.youtube.com/watch?v=jKt100tzyr4"
+        },
+        {
+            "id": 16,
+            "categoriaId": 4,
+            "titulo": "Batman: O Cavaleiro das Trevas Ressurge",
+            "url": "https://www.youtube.com/watch?v=oha0ZHd3Fz4"
+        },
+        {
+            "id": 17,
+            "categoriaId": 4,
+            "titulo": "Batman",
+            "url": "https://www.youtube.com/watch?v=fvEMyXL9IJI"
+        },
+        {
+            "id": 18,
+            "categoriaId": 5,
+            "titulo": "Batman: Arkham Asylum",
+            "url": "https://www.youtube.com/watch?v=Ut5x6JbFrUU"
+        },
+        {
+            "id": 19,
+            "categoriaId": 5,
+            "titulo": "Batman: Arkham Knight",
+            "url": "https://www.youtube.com/watch?v=-6cOhCbzUQs"
+        },
+        {
+            "id": 20,
+            "categoriaId": 5,
+            "titulo": "Batman: Arkham City",
+            "url": "https://www.youtube.com/watch?v=8DIvxqraJi0"
+        },
+        {
+            "id": 21,
+            "categoriaId": 5,
+            "titulo": "Lego Batman: The Videogame",
+            "url": "https://www.youtube.com/watch?v=y6xlxFoYBmE"
+        }
+    ]
+}

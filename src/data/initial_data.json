@@ -1,0 +1,156 @@
+{
+    "categorias": [
+      {
+        "titulo": "Bandas",
+        "cor": "#f29a07",
+        "videos": [
+          {
+            "titulo": "Música Favorita",
+            "url": "https://www.youtube.com/watch?v=gNS1jTQOnCs"
+          },
+          {
+            "titulo": "Coldplay - Fix You",
+            "url": "https://www.youtube.com/watch?v=k4V3Mo61fJM"
+          },
+          {
+            "titulo": "Kendrick Lamar",
+            "url": "https://www.youtube.com/watch?v=tvTRZJ-4EyI"
+          },
+          {
+            "titulo": "Red Hot Chili Peppers - Can't Stop",
+            "url": "hhttps://www.youtube.com/watch?v=8DyziWtkfBw"
+          },
+          {
+            "titulo": "arctic monkeys fluorescent adolescent ",
+            "url": "https://www.youtube.com/watch?v=ma9I9VBKPiw"
+          },
+          {
+            "titulo": "florence and the machine cosmic love",
+            "url": "https://www.youtube.com/watch?v=2EIeUlvHAiM"
+          }    
+        ]
+      },
+      {
+        "titulo": "Filmes",
+        "cor": "#f29a07",
+        "videos": [
+          {
+            "titulo": "vida marinha com steve zissou",
+            "url": "https://www.youtube.com/watch?v=yh401Rmkq0o"
+          },
+          {
+            "titulo": "vida marinha com steve zissou",
+            "url": "https://www.youtube.com/watch?v=yh401Rmkq0o"
+          },
+          {
+            "titulo": "devdas",
+            "url": "https://www.youtube.com/watch?v=8tuHQWGMQwY"
+          },
+          {
+            "titulo": "la haine",
+            "url": "https://www.youtube.com/watch?v=5Hs6GwQPAQE"
+          }, 
+          {
+            "titulo": "8 1/2",
+            "url": "https://www.youtube.com/watch?v=jUc4oHnFBnc"
+          }
+        ]
+      },
+      {
+        "titulo": "Séries",
+        "cor": "#f29a07",
+        "videos": [
+          {
+            "titulo": "star trek",
+            "url": "https://www.youtube.com/watch?v=ga_WryYuRNw"
+          },
+          {
+            "titulo": "dr who",
+            "url": "https://www.youtube.com/watch?v=7z5NNhRAhYA"
+          },
+          {
+            "titulo": "game of thrones",
+            "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
+          },
+          {
+            "titulo": "unbreakable kimmy schmidt",
+            "url": "https://www.youtube.com/watch?v=Hl4bOuGNMwo"
+          }
+        ]
+      },
+      {
+        "titulo": "Pensadores",
+        "cor": "#f29a07",
+        "videos": [
+          {
+            "titulo": "noam chomsky",
+            "url": "https://www.youtube.com/watch?v=LZJ-vd7ggrk"
+          },
+          {
+            "titulo": "zizek",
+            "url": "https://www.youtube.com/watch?v=5brj05XehVk"
+          },
+          {
+            "titulo": "greek philosophers",
+            "url": "https://www.youtube.com/watch?v=HBqxXKkE2gM"
+          },
+          {
+            "titulo": "buda",
+            "url": "https://www.youtube.com/watch?v=EDgd8LT9AL4"
+          }
+        ]
+      },
+      {
+        "titulo": "Investimentos",
+        "cor": "#f29a07",
+        "videos": [
+          {
+            "titulo": "GANHE DINHEIRO EM 2020! TOP 6 investimentos do ano! De Tesouro a Fundos Imobiliários",
+            "url": "https://www.youtube.com/watch?v=-HJn3vgOx_M"
+          },
+          {
+            "titulo": "O Guia BÁSICO para começar a INVESTIR com POUCO DINHEIRO! (e do jeito CERTO! Sem pagar taxas)",
+            "url": "https://www.youtube.com/watch?v=dJyJ77GkhBE"
+          },
+          {
+            "titulo": "6 PIORES INVESTIMENTOS DE 2020! Tesouro Selic tá na lista e agora? (Veja e fuja!)",
+            "url": "https://www.youtube.com/watch?v=vpZBpRiuZCI"
+          },
+          {
+            "titulo": "GUIA BEM BÁSICO pra começar a investir com POUCO DINHEIRO! Saiba tudo em 10 minutos",
+            "url": "https://www.youtube.com/watch?v=aGGYFxLdFMw"
+          },
+          {
+            "titulo": "Como investir em CDB? Saiba tudo sobre esse INVESTIMENTO!",
+            "url": "https://www.youtube.com/watch?v=7TUWWN6AIeY"
+          }
+        ]
+      },
+      {
+        "titulo": "Negócios",
+        "cor": "#f29a07",
+        "videos": [
+          {
+            "titulo": "7 IDEIAS DE NEGÓCIOS (PEQUENOS) para AUMENTAR a sua RENDA",
+            "url": "https://www.youtube.com/watch?v=H3DePqT2ad8"
+          },
+          {
+            "titulo": "5 NEGÓCIOS nos EUA que ainda NÃO chegaram no BRASIL! (Negócios rentáveis do futuro)",
+            "url": "https://www.youtube.com/watch?v=25w_d0d96Qc"
+          },
+          {
+            "titulo": "5 IDEIAS DE NEGÓCIOS LUCRATIVOS PARA 2020",
+            "url": "https://www.youtube.com/watch?v=Dx5uht2iEJs"
+          },
+          {
+            "titulo": "4 Ideias de NEGÓCIOS para 2020 [comece hoje]",
+            "url": "https://www.youtube.com/watch?v=vI8tyBUpr2U"
+          },
+          {
+            "titulo": "7 PASSOS PRA CRIAR UM NEGOCIO DO ZERO |TIAGO FONSECA",
+            "url": "https://www.youtube.com/watch?v=UT06-_zJ-oM"
+          }
+        ]
+      }
+    ]
+  }
